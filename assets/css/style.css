@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(../images/backgrround-img.png);
+    color: black;
+    text-align: left;
+    line-height: px;
+    word-spacing: 5px;
+    margin: 0 auto;
+    padding-left: 30px;
+
+}
+
+div {
+    line-height: 30px;
+}
